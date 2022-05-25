@@ -1,0 +1,315 @@
+General
+	Part Number	base_tool
+	Part Name	base_tool
+	Description
+	Material Name	(Various)
+
+Manage
+	Item Number
+	Lifecycle
+	Revision
+	State	Working
+	Change Order
+
+Physical
+	Mass	59.408 g
+	Volume	35268.114 mm^3
+	Density	0.002 g / mm^3
+	Area	29462.714 mm^2
+	World X,Y,Z	-260.421 mm, 345.236 mm, -796.674 mm
+	Center of Mass	0.294 mm, 3.541 mm, 19.53 mm
+	Bounding Box
+		Length	63.249 mm
+		Width	76.78 mm
+		Height	62.00 mm
+	Moment of Inertia at Center of Mass   (g mm^2)
+		Ixx	22600.995
+		Ixy	-714.707
+		Ixz	-79.184
+		Iyx	-714.707
+		Iyy	27853.137
+		Iyz	-991.807
+		Izx	-79.184
+		Izy	-991.807
+		Izz	24241.546
+	Moment of Inertia at Origin   (g mm^2)
+		Ixx	46006.474
+		Ixy	-776.567
+		Ixz	-420.386
+		Iyx	-776.567
+		Iyy	50518.91
+		Iyz	-5100.171
+		Izx	-420.386
+		Izy	-5100.171
+		Izz	24991.528
+
+General
+	Part Number	idol_gear
+	Part Name	idol_gear
+	Description
+	Material Name	ABS Plastic
+
+Manage
+	Item Number
+	Lifecycle
+	Revision
+	State	Working
+	Change Order
+
+Physical
+	Mass	5.20 g
+	Volume	4905.559 mm^3
+	Density	0.001 g / mm^3
+	Area	2709.927 mm^2
+	World X,Y,Z	-40.00 mm, -3.00 mm, 0.00 mm
+	Center of Mass	-6.451 mm, -3.438E-07 mm, 0.406 mm
+	Bounding Box
+		Length	59.032 mm
+		Width	6.001 mm
+		Height	30.004 mm
+	Moment of Inertia at Center of Mass   (g mm^2)
+		Ixx	238.486
+		Ixy	0.00
+		Ixz	-20.286
+		Iyx	0.00
+		Iyy	1203.258
+		Iyz	0.00
+		Izx	-20.286
+		Izy	0.00
+		Izz	995.189
+	Moment of Inertia at Origin   (g mm^2)
+		Ixx	239.343
+		Ixy	0.00
+		Ixz	-6.666
+		Iyx	0.00
+		Iyy	1420.527
+		Iyz	0.00
+		Izx	-6.666
+		Izy	0.00
+		Izz	1211.601
+
+General
+	Part Number	idol_grip
+	Part Name	idol_grip
+	Description
+	Material Name	(Various)
+
+Manage
+	Item Number
+	Lifecycle
+	Revision
+	State	Working
+	Change Order
+
+Physical
+	Mass	13.967 g
+	Volume	10675.289 mm^3
+	Density	0.001 g / mm^3
+	Area	5398.825 mm^2
+	World X,Y,Z	-18.134 mm, 6.779 mm, 1.649 mm
+	Center of Mass	10.281 mm, -0.203 mm, 22.875 mm
+	Bounding Box
+		Length	38.263 mm
+		Width	19.292 mm
+		Height	67.267 mm
+	Moment of Inertia at Center of Mass   (g mm^2)
+		Ixx	4512.579
+		Ixy	-19.248
+		Ixz	-2088.635
+		Iyx	-19.248
+		Iyy	5345.71
+		Iyz	-36.574
+		Izx	-2088.635
+		Izy	-36.574
+		Izz	1719.667
+	Moment of Inertia at Origin   (g mm^2)
+		Ixx	11821.867
+		Ixy	9.971
+		Ixz	-5373.583
+		Iyx	9.971
+		Iyy	14130.861
+		Iyz	28.436
+		Izx	-5373.583
+		Izy	28.436
+		Izz	3196.687
+
+General
+	Part Number	idol_pivot_grip
+	Part Name	idol_pivot_grip
+	Description
+	Material Name	ABS Plastic
+
+Manage
+	Item Number
+	Lifecycle
+	Revision
+	State	Working
+	Change Order
+
+Physical
+	Mass	1.736 g
+	Volume	1637.522 mm^3
+	Density	0.001 g / mm^3
+	Area	1229.953 mm^2
+	World X,Y,Z	213.421 mm, -346.236 mm, -840.674 mm
+	Center of Mass	-20.00 mm, 0.00 mm, 0.00 mm
+	Bounding Box
+		Length	48.00 mm
+		Width	6.00 mm
+		Height	8.00 mm
+	Moment of Inertia at Center of Mass   (g mm^2)
+		Ixx	10.919
+		Ixy	8.314E-10
+		Ixz	2.196E-09
+		Iyx	8.314E-10
+		Iyy	322.942
+		Iyz	-3.109E-09
+		Izx	2.196E-09
+		Izy	-3.109E-09
+		Izz	321.986
+	Moment of Inertia at Origin   (g mm^2)
+		Ixx	10.919
+		Ixy	7.550E-10
+		Ixz	1.643E-09
+		Iyx	7.550E-10
+		Iyy	1017.252
+		Iyz	-3.109E-09
+		Izx	1.643E-09
+		Izy	-3.109E-09
+		Izz	1016.296
+
+General
+	Part Number	servo_gear
+	Part Name	servo_gear
+	Description
+	Material Name	ABS Plastic
+
+Manage
+	Item Number
+	Lifecycle
+	Revision
+	State	Working
+	Change Order
+
+Physical
+	Mass	5.069 g
+	Volume	4782.457 mm^3
+	Density	0.001 g / mm^3
+	Area	2803.047 mm^2
+	World X,Y,Z	40.00 mm, 3.00 mm, 0.00 mm
+	Center of Mass	6.594 mm, 6.165E-06 mm, -0.396 mm
+	Bounding Box
+		Length	58.905 mm
+		Width	6.001 mm
+		Height	29.99 mm
+	Moment of Inertia at Center of Mass   (g mm^2)
+		Ixx	237.003
+		Ixy	0.00
+		Ixz	-17.477
+		Iyx	0.00
+		Iyy	1195.729
+		Iyz	0.00
+		Izx	-17.477
+		Izy	0.00
+		Izz	988.379
+	Moment of Inertia at Origin   (g mm^2)
+		Ixx	237.798
+		Ixy	0.00
+		Ixz	-4.24
+		Iyx	0.00
+		Iyy	1416.953
+		Iyz	0.00
+		Izx	-4.24
+		Izy	0.00
+		Izz	1208.809
+
+General
+	Part Number	servo_grip
+	Part Name	servo_grip
+	Description
+	Material Name	(Various)
+
+Manage
+	Item Number
+	Lifecycle
+	Revision
+	State	Working
+	Change Order
+
+Physical
+	Mass	13.967 g
+	Volume	10675.345 mm^3
+	Density	0.001 g / mm^3
+	Area	5398.819 mm^2
+	World X,Y,Z	-24.031 mm, 6.779 mm, 54.483 mm
+	Center of Mass	-10.281 mm, -0.204 mm, 22.875 mm
+	Bounding Box
+		Length	38.263 mm
+		Width	19.292 mm
+		Height	67.267 mm
+	Moment of Inertia at Center of Mass   (g mm^2)
+		Ixx	4512.582
+		Ixy	19.261
+		Ixz	2088.639
+		Iyx	19.261
+		Iyy	5345.719
+		Iyz	-36.599
+		Izx	2088.639
+		Izy	-36.599
+		Izz	1719.672
+	Moment of Inertia at Origin   (g mm^2)
+		Ixx	11821.866
+		Ixy	-9.98
+		Ixz	5373.58
+		Iyx	-9.98
+		Iyy	14130.86
+		Iyz	28.459
+		Izx	5373.58
+		Izy	28.459
+		Izz	3196.687
+
+General
+	Part Number	servo_pivot_grip
+	Part Name	servo_pivot_grip
+	Description
+	Material Name	ABS Plastic
+
+Manage
+	Item Number
+	Lifecycle
+	Revision
+	State	Working
+	Change Order
+
+Physical
+	Mass	1.736 g
+	Volume	1637.522 mm^3
+	Density	0.001 g / mm^3
+	Area	1229.953 mm^2
+	World X,Y,Z	307.421 mm, -344.236 mm, -840.674 mm
+	Center of Mass	20.00 mm, 0.00 mm, 0.00 mm
+	Bounding Box
+		Length	48.00 mm
+		Width	6.00 mm
+		Height	8.00 mm
+	Moment of Inertia at Center of Mass   (g mm^2)
+		Ixx	10.919
+		Ixy	-2.465E-09
+		Ixz	-5.181E-09
+		Iyx	-2.465E-09
+		Iyy	322.942
+		Iyz	6.040E-09
+		Izx	-5.181E-09
+		Izy	6.040E-09
+		Izz	321.986
+	Moment of Inertia at Origin   (g mm^2)
+		Ixx	10.919
+		Ixy	-2.620E-09
+		Ixz	-5.151E-09
+		Iyx	-2.620E-09
+		Iyy	1017.252
+		Iyz	6.040E-09
+		Izx	-5.151E-09
+		Izy	6.040E-09
+		Izz	1016.296
+
